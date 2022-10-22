@@ -1,0 +1,9 @@
+Observaciones:
+    -> Tanto como el insertar y el buscar, son similares
+    Estos promedios see hicieron con 10 intentos:
+    -> Promedio de Longitud de Secuencia de Prueba al Buscar (No Primo): 3.3
+    -> Promedio de Longitud de Secuencia de Prueba al Buscar (Primo): 0.9
+    (Se puede observar que el promedio de la longitud de secuencia de prueba al
+     buscar una clave varia dependiendo de si la longitud de la tabla es primo o no.
+     Es decir que si la longitud de la tabla es primo, nos aseguramos que la longitud
+     de la secuencia sea menor)
