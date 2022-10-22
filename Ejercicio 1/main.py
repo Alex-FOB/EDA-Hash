@@ -1,4 +1,5 @@
 import random as rand
+
 from hash import tablaHash
 
 def init(cant = 1000):
